@@ -1,3 +1,1 @@
-123123123
-456465456
-
+ansible -i number.txt all -m shell -a "cat /etc/redhat-release"
