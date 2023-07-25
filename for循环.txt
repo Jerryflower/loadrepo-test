@@ -1,0 +1,4 @@
+for i in `cat /home/autoom/number.txt`
+do
+
+done
